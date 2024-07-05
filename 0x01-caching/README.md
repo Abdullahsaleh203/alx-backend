@@ -565,7 +565,6 @@ guillaume@ubuntu:~/0x01$
 
 # advanced
 
-Score: 0% (Checks completed: 0%)
 
 Create a class `LFUCache` that inherits from `BaseCaching` and is a caching system:
 
