@@ -181,7 +181,6 @@ OK
 "School"
 127.0.0.1:6379>
 ```
-Done? Help Get a sandbox
 
 ### 1\. Node Redis Client
 
@@ -263,8 +262,7 @@ client.on('connect', () => {
 });
 ```
 
- Done? Help Get a sandbox
-
+ 
 ### 2\. Node Redis client and basic operations
 
 mandatory
@@ -318,8 +316,7 @@ bob@dylan:~$
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `1-redis_op.js`
 
- Done? Help Get a sandbox
-
+ 
 ### 3\. Node Redis client and async operations
 
 mandatory
@@ -357,8 +354,7 @@ bob@dylan:~$
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `2-redis_op_async.js`
 
- Done? Help Get a sandbox
-
+ 
 ### 4\. Node Redis client and advanced operations
 
 mandatory
@@ -424,8 +420,7 @@ bob@dylan:~$
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `4-redis_advanced_op.js`
 
- Done? Help Get a sandbox
-
+ 
 ### 5\. Node Redis client publisher and subscriber
 
 mandatory
@@ -577,8 +572,7 @@ If you execute multiple time this file, you will see the `JOB ID` increasing -
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `6-job_creator.js`
 
- Done? Help Get a sandbox
-
+ 
 ### 7\. Create the Job processor
 
 mandatory
@@ -647,8 +641,7 @@ BOOM! same as `5-subscriber.js` and `5-publisher.js` but with a module to ma
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `6-job_processor.js`
 
- Done? Help Get a sandbox
-
+ 
 ### 8\. Track progress and errors with Kue: Create the Job creator
 
 mandatory
