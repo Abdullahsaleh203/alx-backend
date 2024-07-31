@@ -51,7 +51,6 @@ First you will setup a basic Flask app in `0-app.py`. Create a single `/` route 
 - Directory: `0x02-i18n`
 - File: `0-app.py, templates/0-index.html`
 
- Done? Help Check your code
 
 ### 1\. Basic Babel setup
 
@@ -91,7 +90,6 @@ Create a `get_locale` function with the `babel.localeselector` decorator. Use `r
 - Directory: `0x02-i18n`
 - File: `2-app.py, templates/2-index.html`
 
- Done? Help Check your code
 
 ### 3\. Parametrize templates
 
@@ -163,7 +161,6 @@ Now you should be able to test different translations by visiting `http://127.0.
 - Directory: `0x02-i18n`
 - File: `4-app.py, templates/4-index.html`
 
- Done? Help Check your code
 
 ### 5\. Mock logging in
 
@@ -205,7 +202,6 @@ In your HTML template, if a user is logged in, in a paragraph tag, display a wel
 - Directory: `0x02-i18n`
 - File: `5-app.py, templates/5-index.html`
 
- Done? Help Check your code
 
 ### 6\. Use user locale
 
@@ -230,7 +226,6 @@ Test by logging in as different users
 - Directory: `0x02-i18n`
 - File: `6-app.py, templates/6-index.html`
 
- Done? Help Check your code
 
 ### 7\. Infer appropriate time zone
 
