@@ -835,7 +835,7 @@ Notification job #49 completed
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `7-job_processor.js`
 
- Done! Help Get a sandbox
+ 
 
 ### 10\. Writing the job creation function
 
@@ -888,7 +888,7 @@ Notification job created: 51
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `8-job.js`
 
- Done! Help Get a sandbox
+ 
 
 ### 11\. Writing the test for job creation
 
@@ -930,7 +930,6 @@ Notification job created: 2
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `8-job.test.js`
 
- Done! Help
 
 ### 12\. In stock?
 
@@ -1039,7 +1038,6 @@ bob@dylan:~$
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `9-stock.js`
 
- Done! Help
 
 ### 13\. Can I have a seat?
 
@@ -1237,7 +1235,7 @@ Notification job #49 completed
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `7-job_processor.js`
 
- Done! Help Get a sandbox
+ 
 
 ### 10\. Writing the job creation function
 
@@ -1290,7 +1288,7 @@ Notification job created: 51
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `8-job.js`
 
- Done! Help Get a sandbox
+ 
 
 ### 11\. Writing the test for job creation
 
@@ -1332,7 +1330,6 @@ Notification job created: 2
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `8-job.test.js`
 
- Done! Help
 
 ### 12\. In stock?
 
@@ -1441,7 +1438,6 @@ bob@dylan:~$
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `9-stock.js`
 
- Done! Help
 
 ### 13\. Can I have a seat?
 
