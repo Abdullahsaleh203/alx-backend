@@ -78,7 +78,6 @@ Use that class as config for your Flask app.
 - Directory: `0x02-i18n`
 - File: `1-app.py, templates/1-index.html`
 
- Done? Help Check your code Get a sandbox
 
 ### 2\. Get locale from request
 
@@ -145,7 +144,6 @@ Reload the home page of your app and make sure that the correct messages show up
 - Directory: `0x02-i18n`
 - File: `3-app.py, babel.cfg, templates/3-index.html, translations/en/LC_MESSAGES/messages.po, translations/fr/LC_MESSAGES/messages.po, translations/en/LC_MESSAGES/messages.mo, translations/fr/LC_MESSAGES/messages.mo`
 
- Done? Help Check your code Get a sandbox
 
 ### 4\. Force locale with URL parameter
 
